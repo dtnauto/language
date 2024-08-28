@@ -1,12 +1,12 @@
-# Adjective `Tính từ`
+# Adjective `:Tính từ`
 ## Phân loại
-1. Descriptive adjectives `Miêu tả`: good; golden; dry
-2. Demonstrative adjectives `Chỉ định`: this, that, these, those.
-3. Indefinite adjectives `Bất định`: each, every, either, neither, some, any, no, few, many, little, much,...
-4. Numeral adjectives `Số từ`: one, two, twenty,...
-5. Interrogative adjectives `Nghi vấn`: which, what, whose
-6. Possessive adjectives `Sở hữu`: my, your, his, her, its, our, thier.
-7. Articles adjectives `Mạo từ`: a, an, the
+1. Descriptive adjectives `:Miêu tả`: good; golden; dry
+2. Demonstrative adjectives `:Chỉ định`: this, that, these, those.
+3. Indefinite adjectives `:Bất định`: each, every, either, neither, some, any, no, few, many, little, much,...
+4. Numeral adjectives `:Số từ`: one, two, twenty,...
+5. Interrogative adjectives `:Nghi vấn`: which, what, whose
+6. Possessive adjectives `:Sở hữu`: my, your, his, her, its, our, thier.
+7. Articles adjectives `:Mạo từ`: a, an, the
 
 ## Cấu tạo
 1. Tính từ đơn
@@ -62,14 +62,14 @@
     > - [tính từ ngắn] the + adj + "est"
     > - [tính từ dài] the most + adj
 - note
-    - most + adj. Diễn tả `hết sức, rất, lắm lắm`. Example: he is a most diligent boy
+    - most + adj. Diễn tả `:hết sức, rất, lắm lắm`. Example: he is a most diligent boy
 
 ## Mạo từ
-### Indefinite Articles `mạo từ bất định`
+### Indefinite Articles `:mạo từ bất định`
 - là mạo từ "a";"an". 
     - Dùng trong danh từ đếm được số ít chưa được xác định. Example: Nếu nói chung chung chưa xác định số ít "a dog is an animal" <> nếu nói chung chung số nhiều thì không dùng mạo từ "dogs are animals"
     - dùng để chỉ đơn vị một cái trong danh từ đếm được số ít. Example: i have a pen. Nếu dùng trong danh từ đếm được số nhiều để chỉ đơn vị thì dùng tính từ chỉ số lượng: some, many, a few "i have three pens"
-### Definite Articles `mạo từ xác định`
+### Definite Articles `:mạo từ xác định`
 - là mạo từ "the"
     - Dùng trong danh từ đếm được và không đếm được số ít đã xác định. Trong trường hợp danh từ không đếm được số ít mà chưa được xác định thì không dùng mạo từ. Example: i like coffee; i want the book on your desk; i can't drink the coffee in this cup
     - Nếu nói chung chung số nhiều trong danh từ không đếm được thì dùng tính từ chỉ số lượng some; much; a little
