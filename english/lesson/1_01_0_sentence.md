@@ -1,16 +1,16 @@
 ## Word Class
 - bổ nghĩa = nói rõ thêm
 
-|Parts of Speech|Chức năng|Example|
-|-|-|-|
-|Danh từ|chỉ người vật, sự việc, khái niệm|boy,table,cat,freedom,happiness|
-|Đại từ|dùng thay cho danh từ|I,he,them,who,which,mine,this|
-|Động từ|chỉ hành động, trạng thái của danh từ|learn, to be|
-|Tính từ|bổ nghĩa cho danh từ |good, beautiful|
-|Phó từ|bổ nghĩa cho động từ, tính từ, phó từ khác| very, too, here|
-|Giới từ|đi với danh từ hoặc đại từ(chủ ngữ của câu) để chỉ quan hệ của chúng với các từ khác|to, of, near|
-|Liên từ|nối các từ, cụm từ, câu|and, if, but|
-|Thán từ|diễn tả cảm xúc|ah!,oh!,hello!|
+| Parts of Speech | Chức năng                                                                            | Example                         |
+|-----------------|--------------------------------------------------------------------------------------|---------------------------------|
+| Danh từ         | chỉ người vật, sự việc, khái niệm                                                    | boy,table,cat,freedom,happiness |
+| Đại từ          | dùng thay cho danh từ                                                                | I,he,them,who,which,mine,this   |
+| Động từ         | chỉ hành động, trạng thái của danh từ                                                | learn, to be                    |
+| Tính từ         | bổ nghĩa cho danh từ                                                                 | good, beautiful                 |
+| Phó từ          | bổ nghĩa cho động từ, tính từ, phó từ khác                                           | very, too, here                 |
+| Giới từ         | đi với danh từ hoặc đại từ(chủ ngữ của câu) để chỉ quan hệ của chúng với các từ khác | to, of, near                    |
+| Liên từ         | nối các từ, cụm từ, câu                                                              | and, if, but                    |
+| Thán từ         | diễn tả cảm xúc                                                                      | ah!,oh!,hello!                  |
 
 ## Cấu trúc câu
 - một câu tiếng anh gồm 2 phần: subject `:chủ ngữ` và vị ngữ `:predicate`

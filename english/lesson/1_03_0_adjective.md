@@ -39,15 +39,15 @@
 - note
     - quy tắc thêm "er": y thành i thêm er; gấp đôi phụ âm nếu tận cùng là nguyên âm
     - tính từ đặc biệt:
-        |dạng thường adjective|dạng thường adverb|dạng so sánh hơn|dạng so sánh nhất|
-        |-|-|-|-|
-        |good|well|better|best|
-        |bad (ill)|badly|worse|worst|
-        |little|little|less|least|
-        |many/much|much|more|most|
-        |far|far|farther/further|farthest/furthest|
-        |old|elderly|older/elder|oldest/eldest|
-        |late|late|later/latter|latest/last|
+    | dạng thường adjective | dạng thường adverb | dạng so sánh hơn | dạng so sánh nhất |
+    |-----------------------|--------------------|------------------|-------------------|
+    | good                  | well               | better           | best              |
+    | bad (ill)             | badly              | worse            | worst             |
+    | little                | little             | less             | least             |
+    | many/much             | much               | more             | most              |
+    | far                   | far                | farther/further  | farthest/furthest |
+    | old                   | elderly            | older/elder      | oldest/eldest     |
+    | late                  | late               | later/latter     | latest/last       |
 
 ### so sánh điệp khúc
 - structure special: ...càng ngày càng...
@@ -82,13 +82,13 @@
     - với danh từ trừu tường
     - với danh từ chỉ chất liệu: rice; milk
 ### tổng hợp
-|noun|số lượng|xác định|a/an|the|
-|-|-|-|-|-|
-|countable noun|số ít|chưa xác định|a chair is a thing|không dùng|
-|countable noun|số ít|xác định|there is an book in my bookcase|i want the book on your desk|
-|countable noun|số nhiều|chưa xác định|không dùng: chairs are things|không dùng|
-|countable noun|số nhiều|xác định|không dùng: i have many pens|i want the books on your desk|
-|non-countable noun|số ít|chưa xác định|không dùng: i like coffee|không dùng|
-|non-countable noun|số ít|xác định|không dùng|i can't drink the coffee in this cup|
-|non-countable noun|số nhiều|chưa xác định|không dùng|không dùng|
-|non-countable noun|số nhiều|xác định|không dùng|không dùng|
+| noun               | số lượng | xác định      | a/an                            | the                                  |
+|--------------------|----------|---------------|---------------------------------|--------------------------------------|
+| countable noun     | số ít    | chưa xác định | a chair is a thing              | không dùng                           |
+| countable noun     | số ít    | xác định      | there is an book in my bookcase | i want the book on your desk         |
+| countable noun     | số nhiều | chưa xác định | không dùng: chairs are things   | không dùng                           |
+| countable noun     | số nhiều | xác định      | không dùng: i have many pens    | i want the books on your desk        |
+| non-countable noun | số ít    | chưa xác định | không dùng: i like coffee       | không dùng                           |
+| non-countable noun | số ít    | xác định      | không dùng                      | i can't drink the coffee in this cup |
+| non-countable noun | số nhiều | chưa xác định | không dùng                      | không dùng                           |
+| non-countable noun | số nhiều | xác định      | không dùng                      | không dùng                           |
