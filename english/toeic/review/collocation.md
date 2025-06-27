@@ -1,0 +1,76 @@
+- adv + V + adv + adj + N
+    - tính từ đi trước danh từ; sau danh từ là liên từ for,..
+    - trạng từ đi trước động từ
+- Be continually / curenterlly [+Ving] `: đang / hiện nay- dùng trong thì hiện tại tiếp diễn`
+- Decide against `: quyết định không làm gì`
+- First,…second,…then… `: và rồi`
+- It is no wonder that [+mđ] `: không có gì ngạc nhiên khi mà`
+- The fact that [+mđ] `: thực tế là`
+- Whom va which là 2 đại từ quan hệ có giới từ đứng trước
+- Still `(adv.): vẫn` là trạng từ đứng xung quanh động từ
+    - He is still tired. `: Anh ấy vẫn còn mệt.`
+- On the whole,.. `: Nhìn chung là,../Tổng thể thì,..(đứng đầu câu)` 
+- In keeping with [+N/Ving] `:Phù hợp với.., Theo đúng với..`
+- On or before [+N(time)] `: đúng trước thời hạn cuối cùng`
+- Orther than [+N/Ving] `:ngoại trừ..`
+- arrange with somebody `: sắp xếp cái gì đó với ai`
+- Sau động từ "be" và trước "to + nhóm danh từ" cần điền 1 tính từ.
+    - be + adj + to + noun
+- just đi với but
+- It is necessary to do st  `:Làm điều gì là cần thiết.`
+- chú ý cấu trúc liên quan đến động từ "avoid" chính là: "avoid + V-ing" hoặc "avoid + danh từ"
+- Except for
+- In such
+- go on a trip `:đi một chuyến`
+- face to face `:mặt đối mặt`
+- expense account  `: công tác phí`
+- Business trip `:chuyến đi công tác`
+- fire `(n.): lửa; (v.): sa thải`
+- on the computer disk `:trên đĩa máy tính`
+- .., and reasonably so `:.., và như vậy là hợp lý` là cụm từ thường được thêm vào sau mỗi câu
+
+- as
+    - as far as `:theo như`
+        - as far as, I'm concerned `: Theo như, tôi quan tâm`
+    - as soon as `: ngay khi`
+    - as well as `: cũng như`
+    - as long as `: miễn là`
+    - as much as `: mặc dù`
+    - as ... as possible `: bằng với/ngay.. khi có thể`
+    
+- take
+    - Take over = Succeed + sb `: kế nhiệm, tiếp quản ai `
+    - Take the time to + V + during + N `: dành thời gian để làm gì trong khoảng thời gian`
+    - Take part in `: tham gia`
+    - Take place `: diễn ra`
+    - Take the opportunity
+    - Take your time
+    - Take a break
+    - Take a picture / photo
+    - Take off `: cất cảnh, cởi bỏ`
+    - take a joke `: chấp nhận trò đùa`
+    - take a shower `: tắm vòi sen`
+    - take a breath `: hít hơi`
+    - take the bus `: đi xe buýt`
+    - take a nap `: ngủ giấc ngắn`
+    - take notes `: ghi chú`
+    - take a walk `: đi bộ`
+    - take the medicine `: uống thuốc`
+    - take action `: hành động`
+    - take an exam `: làm kiểm tra`
+    - take a photo `: chụp ảnh`
+    - take advantage of `: tận dụng lợi thế../giảm giá..`
+    - take care of `: trông nom, chăm sóc`
+    - take a chance `: nắm bắt cơ hội`
+    - take a course `: tham gia khóa học`
+    - take early retirement `: nghỉ hưu sớm`
+    - take into consideration `: xem xét, cân nhắc`
+    - take a risk `: mạo hiểm`
+    - take responsibility `: chịu trách nhiệm`
+    - take a shortcut `: đi đường tắt`
+    - take on `:đảm nhận../gánh vác..`
+        - take on staff `: tuyển nhân viên`
+        - take on work `: nhận việc`
+        - Take on debt `:gánh nợ`
+        - Take on task `:đảm nhiệm chức vụ`
+        - Take on job `:đảm nhiệm công việc`

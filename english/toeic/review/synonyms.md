@@ -1,0 +1,404 @@
+- `:chọn`
+    - choose
+    - opt
+    - select
+- `:ảnh hưởng`
+    - impact `(n.):`
+    - influence `(v.):`
+    - effective `(adj.):`
+- invest..
+    - investigate `(v.): điều tra, nghiên cứu`
+    - invest `(v.): đầu tư`
+- `:đăng ký`
+    - subscribe `(v.): đặt mua một cái gì đó định kỳ, đăng ký`
+    - register `(v.): đăng ký`
+- `:đề nghị`
+    - recommendation `(n.): lời dặn dò, đề nghị`
+    - suggestion `(n.): lời đề nghị, sự gợi ý`
+    - petition `(n.): đơn kiến nghị, đơn thỉnh cầu`
+    - offer `(n.): đề xuất, đề nghị, chào mời, chào hàng`
+- `:giá trị`
+    - evaluate `(v.): đánh giá, định giá; ước lượng`
+    - valid `(adj.): có giá trị, có hiệu lực`
+    - value `(v.): đánh giá, định giá; (n.): giá trị`
+- `:năng suất`
+    - productive `(adj.): có năng suất, hiệu quả`
+    - effective `(adj.): có hiệu quả, có tác dụng`
+    - efficient `(adj.): có hiệu quả, có hiệu suất, có năng suất (cao)`
+- `:áp buộc`
+    - burden `(n.): gánh nặng`
+    - obligate `(v.): bắt buộc, ép buộc`
+    - mandatory `(adj.): (thuộc) lệnh, bắt buộc`
+    - impose `(v.): bắt chịu, bắt gánh vác`
+    - press
+- express
+    - express `(adj.): nhanh, hỏa tốc, tốc hành.`
+    - express `(v.): biểu lộ, diễn đạt`
+- `:theo mốt`
+    - fashion `(adj.): thời trang, mốt`
+    - fad `(n.): mốt nhất thời`
+    - trend `(n.): xu hướng`
+- `:hạn chế`
+    - strictly `(adv.): ‹một cách› nghiêm ngặt, nghiêm khắc`
+    - restricted `(adj.): bị hạn chế, bị giới hạn`
+- `:số dư`
+    - balance `(v.): quyết toán; (n.): số dư`
+    - return `(n.): tiền lãi, tiền lời`
+    - remainder `(n.): phần còn lại, số dư`
+- rela..
+    - relaxation `(n.): thư giãn, giải trí`
+    - relatively `(adv.): tương đối`
+- `:tương đương`
+    - commensurate with `(adj.): xứng với, tương xứng với`
+    - equivalent `(adj.): tương đương`
+    - relatively `(adv.): tương đối`
+    - similar
+- `:đích đến`
+    - destination `(n.): nơi đến, nơi tới, đích đến, mục đích`
+    - arrive `(v.): đến`
+    - address `(v.): nhằm vào, trình bày; (n.): địa điểm` 
+- `:địa chỉ`
+    - address `(v.): nhằm vào, trình bày; (n.): địa điểm` 
+    - site `(n.): địa điểm`
+- `:khoảng`
+    - estimate `(v.): ước lượng`
+    - assess `(v.): đánh giá, ước lượng`
+    - proximity `(n.): sắp xỉ, sự gần gũi`
+- `:điều chỉnh`
+    - regulate `(v.): điều chỉnh`
+    - adjustment `(n.): điều chỉnh, chỉnh lý`
+    - reconcile `(v.): chỉnh lý, làm cho phù hợp/nhất trí, hòa giải`
+- `:phù hợp`
+    - reconcile `(v.): chỉnh lý, làm cho phù hợp/nhất trí, hòa giải`
+    - conform `(v.): làm cho phù hợp, làm cho thích hợp`
+    - compatible `(adj.): tương thích, hợp nhau`
+    - suit `(v.): phù hợp với, thích hợp với`
+    - coincide `(v.): trùng hợp`
+    - eligible `(adj.): thích hợp, đủ tư cách, đủ tiêu chuẩn; có thể chọn được`
+    - accommodate `(v.): làm cho phù hợp`
+- `:thuyết phục`
+    - persuasion `(n.): sự thuyết phục, làm cho tin (chú ý: persuade > convince)`
+    - convince `(v.): Thuyết phục`
+- `:thu hút`
+    - attract `(v.): hấp dẫn, lôi cuốn, thu hút`
+    - engage `(v.): thu hút (sự chú ý…), giành được (tình cảm…)`
+    - appeal `(n.): sức hấp dẫn, lôi cuốn`
+    - draw `(v.): thu hút, lôi cuốn, vẽ`
+- `:tuân theo`
+    - abide by `(v.): tôn trọng, tuân theo, giữ (lời)`
+    - adhere to `(v.): tuân thủ, giữ vững`
+- ..source`
+    - resource `(n.): nguồn, nguồn lực`
+    - source `(n.): nguồn, nguồn gốc`
+- `:cho phép`
+    - allow `(v.): cho phép, chấp nhận`
+    - permit `(v.): cho phép`
+    - authorize `(v.): uỷ quyền, cho phép, cho quyền`
+    - admit `(v.): thừa nhận, cho vào, cho phép`
+    - entitle `(v.): cho phép làm cái gì`
+- `:theo đúng giờ`
+    - punctually `(adv.): đúng giờ, không chậm trễ`
+    - keep up with `(v.): theo kịp, bắt kịp, đạt cho bằng được`
+    - catch up `(v.): làm kịp, kịp thời gian`
+- `:hiểu biết`
+    - knowlege
+    - aware `(adj.): biết, nhận thức`
+- ..sult
+    - consult `(v.): tham khảo, hỏi ý kiến, quan tâm`
+    - result `(n.): kết quả, đáp số`
+- `:xem xét`
+    - consider `(v.): xem như, xem xét, cân nhắc`
+    - judge `(v.): phán xét, đánh giá`
+    - inspect `(v.): thanh tra, kiểm tra, xem xét kỹ`
+    - scrutiny `(n.): xem xét/kiểm tra kỹ lưỡng`
+- `:cấp bậc`
+    - tier `(n.): tầng, lớp, hạng`
+    - level `(n.): cấp, cấp bậc, trình độ`
+- `:mục tiêu`
+    - target `(n.): mục tiêu, mục đích`
+    - goal `(n.): mục đích, mục tiêu`
+- `:kết hợp`
+    - collaboration `(n.): sự cộng tác, hợp tác`
+    - coordinate `(v.): kết hợp`
+    - incorporate `(v.): kết hợp chặt chẽ; hợp thành tổ chức/đoàn thể`
+    - combine `(v.): kết hợp, phối hợp`
+    - assemble `(v.): thu thập, tập hợp, lắp ráp`
+- nếp ..
+    - fold `(v.): gập, gấp`
+    - wrinkle `(n.): ‹vếp/nếp› nhăn, nhàu`
+- train
+    - train `(n.): tàu hỏa; (v.): đào tạo`
+    - training `(n.): ‹sự› rèn luyện, tập luyện, huấn luyện, dạy dỗ, đào tạo`
+- `:hướng dẫn`
+    - guide `(n.): hướng dẫn viên, sách hướng dẫn`
+    - directory `(n.): sách hướng dẫn, danh bạ`
+- `khoảng thời gian`
+    - duration `(n.): khoảng thời gian`
+    - lead time `(n.): khoảng thời gian ở giữa sự bắt đầu và sự hoàn thành của một quá trình`
+- `:chính xác`
+    - express
+    - truly
+    - strict
+    - exact `(adj.): chính xác, đúng dắn`
+- `:trợ lý`
+    - assist `(v.): giúp đỡ, có mặt`
+- `:kết quả`
+    - result `(n.): kết quả, đáp số`
+    - consequence `(n.): kết quả, hậu quả, hệ quả; tầm quan trọng, tính trọng đại`
+- `:thường xuyên`
+    - usually `(adv.): thường thường, thường xuyên`
+    - frequently `(adv.): thường xuyên, một cách thường xuyên`
+    - regularly `(adv.): thường xuyên`
+    - commonly `(adv.): thường thường, thông thường`
+- `:thu nhỏ`
+    - narrow `(v.): thu hẹp, co lại`
+    - reduction `(n.): sự giảm, thu nhỏ`
+    - minimize `(v.): giảm thiểu, tối thiểu hóa`
+- `:cần thiết`
+    - as needed `(adv.): lúc cần thiết`
+    - integral `(adj.): cần thiết, không thể thiếu` 
+- `:danh mục`
+    - catalog `(v.): phân thành từng mục`
+    - category `(n.): loại, hạng`
+- `:thích`
+    - habit `(n.): thói quen`
+    - favor `(v.): thích, thiện cảm`
+- `:mở rộng`
+    - expand `(v.): mở rộng, phát triển`
+    - broaden `(v.): mở rộng`
+    - extend `(v.): gia hạn, kéo dài (thời hạn...)`
+- `:trường hợp`
+    - situation `(n.): tình hình, vị thế`
+    - circumstance `(n.): trường hợp, hoàn cảnh, tình huống`
+- `:từ bỏ`
+    - give up `(v.): bỏ, từ bỏ, thôi; tạm dừng; đầu hàng`
+    - get out of `(v.): thôi, mất, bỏ, từ bỏ, rời bỏ, tránh né, thoát khỏi`
+    - relinquish `(v.): từ bỏ, buông thả`
+- `:lối thoát`
+    - outlet `(n.): chỗ thoát ra, lối ra`
+    - exit
+- `yêu cầu`
+    - demand `(n.): nhu cầu`
+    - petition `(n.): đơn kiến nghị, đơn thỉnh cầu`
+    - call in `(v.): yêu cầu, mời tới`
+    - require `(v.): đòi hỏi, yêu cầu`
+- require
+    - prerequisite `(adj.): (điều/điều kiện) tiên quyết, cần trước hết, đòi hỏi trước hết`
+    - require `(v.): đòi hỏi, yêu cầu`
+- `:giúp đỡ`
+    - assist `(v.): giúp đỡ, có mặt`
+    - help
+- `:hạn dùng`
+    - expiration `(n.): sự mãn hạn, sự hết hạn, sự kết thúc`
+    - limit `(n.): giới hạn, hết hạn dùng`
+    - outdated `(adj.): hết hạn; lỗi thời, lạc hậu, cổ, hiện nay không còn dùng (obsolete)`
+    - obsolete
+- `:theo dõi`
+    - monitor `(v.): quan sát, theo dõi`
+    - follow up `(v, n.): (v) theo sau, bám riết`
+    - on track `(n.): theo dõi, đi tìm`
+- `:thành tích`
+    - success `(n.): ‹sự/người› thành công, thành đạt, thắng lợi`
+    - accomplishment `(n.): thành tựu, thành tích; sự hoàn thành, sự làm xong`
+    - achievement `(n.): thành tích, thành tựu`
+    - attainment `(n.): sự đạt được, thành tựu`
+- `:vị trí`
+    - location `(n.): vị trí`
+    - position `(n.): vị trí`
+- `:phấn khích`
+    - irritate `(v.): kích thích, làm tấy lên, làm rát`
+    - appreciation `(n.): sự cảm kích`
+    - excite `(v.): kích thích, kích động`
+- basic
+    - basis `(n.): cơ bản, cơ sở`
+    - basically
+- `:về cơ bản`
+    - substantially `(adv.): về thực chất, về bản chất, về cơ bản; lớn lao, đáng kể`
+    - essentially `(adv.): về cơ bản`
+    - basically
+- system
+    - system `(n.): hệ thống, chế độ`
+    - systematically `(adv.): có hệ thống, có phương pháp (methodically)`
+- `:có phương pháp`
+    - methodically
+    - systematically `(adv.): có hệ thống, có phương pháp (methodically)`
+- `tiềm năng`
+    - prospective `(adj.): (thuộc) tương lai, triển vọng; về sau, sắp tới`
+    - potential `(adj.): tiềm năng, tiềm tàng`
+- `:ảnh hưởng`
+    - interaction `(n.): ‹sự› tương tác, ảnh hưởng lẫn nhau, tác động qua lại`
+- `:rõ ràng`
+    - obviously `(adv.): ‹một cách› rõ ràng, hiển nhiên`
+    - clearly
+    - evidently
+- evident
+    - evident `(adj.): hiển nhiên, rõ ràng`
+    - evidently
+- `thăng cấp`
+    - promote `(v.): khuyến khích, đẩy mạnh, làm tăng thêm`
+    - move up `(v.): tiến lên, thăng tiến`
+- `:kiểm tra`
+    - audit `(n.): kiểm toán; (v.): kiểm toán, kiểm tra`
+    - scrutiny `(n.): xem xét/kiểm tra kỹ lưỡng`
+- `:lợi ích`
+    - benefit `(n.): lợi ích`
+    - conducive `(adj.): có ích, có lợi`
+- conduc..
+    - conduct `(v.): tiến hành, cư xử`
+    - conducive `(adj.): có ích, có lợi`
+- `:vận chuyển`
+    - delivery `(n.): sự giao hàng, sự phân phối`
+    - carrier `(n.): ‹người/công ty› vận chuyển, vận tải`
+- `:tiếp cận`
+    - approach `(v.): tiếp cận, tiến lại gần`
+    - access `(n.): quyền truy cập, sự tiếp cận`
+- `:chỉ định`
+    - designate `(v.): chỉ rõ, định rõ`
+    - allocate `(v.): cấp cho, phân phối`
+- `:thể hiện`
+    - display `(v.): hiển thị, trình bày`
+    - present
+- `:thực thi`
+    - perform `(v.): biểu diễn, trình diễn`
+    - fulfill `(v.): thực hiện, thi hành; hoàn thành, làm tròn`
+- `:đạt được`
+    - acquire `(v.): đạt được, thu được`
+    - obtain `(v.): giành được, kiếm được (to acquire)`
+- essential
+    - essentially `(adv.): về cơ bản`
+- `:công ty`
+    - enterprise `(n.): hãng, công ty, xí nghiệp`
+    - cartel
+- `:tiền lương`
+    - paycheck
+    - wage `(n.): tiền công, tiền lương (thường trả theo giờ)`
+    - salary `(n.): lương hàng tháng`
+    - pension `:lương hưu`
+- `:nhân viên`
+    - receptionist `: nhân viên tiếp tân, lễ tân`
+    - clerk
+    - staff
+    - personnel `(n.): nhân viên`
+    - recruit `(n.): lính mới, nhân viên mới, thành viên mới`
+- `:hồ sơ`
+    - record `(n.): hồ sơ, sổ sách, biên bản`
+    - profile `(n.): tiểu sử sơ lược, bản tóm lược các đặc tính`
+- `:khám phá`
+    - explore `(v.): khảo sát, thăm dò, khám phá`
+    - come up with `(v.): đưa ra, phát hiện, khám phá, ý định`
+    - detect `(v.): tìm ra, khám phá ra, nhận thấy`
+    - expose `(v.): phơi bày, bộc lộ`
+    - discover
+- `:tuyển dụng`
+    - hire `(v.): thuê, mướn; tiền trả công`
+    - bring in `(v.): tuyển dụng, dẫn tới`
+- `:ngăn trừ`
+    - prohibit `(v.): cấm, ngăn cấm`
+    - preclude `(v.): ngăn ngừa, loại trừ`
+    - prevent `(v.): ngăn ngừa, phòng ngừa`
+- init
+    - initially
+    - initiative `(n.): bước khởi đầu, sự khởi xướng`
+- ..cur
+    - incur `(v.): gánh chịu,bị`
+    - recur `(v.): tái diễn, lặp đi lặp lại`
+    - occur `(v.): xảy ra`
+- creat..
+    - creative `(adj.): sáng tạo`
+- `:phần tử`
+    - factor `(n.): nhân tố, yếu tố`
+    - element `(n.): yếu tố`
+    - item `(n.): khoản, món, mục, mặt hàng`
+- `:khách hàng`
+    - customer `(n.): khách hàng (người mua hàng hóa hoặc dịch vụ)`
+    - client `(n.): khách, khách hàng`
+    - patron `(n.): khách hàng quen, người bảo trợ`
+- `:dự đoán`
+    - forecast `(v.): dự báo, dự đoán, đoán trước`
+    - predict `(v.): dự báo, dự đoán trước`
+- `:tích trữ`
+    - store `(v.): lưu giữ, tích trữ`
+    - capacity `(n.): sức chứa, dung tích`
+- `:chủ yếu`
+    - crucial `(adj.): cốt yếu, chủ yếu, có tính quyết định`
+    - primarily `(adv.): trước hết, đầu tiên; chính, chủ yếu, quan trọng nhất`
+- `:nguy cơ`
+    - liability `(n.): nguy cơ, điều gây khó khăn trở ngại`
+    - risk `(n.): nguy cơ, sự nguy hiểm, sự rủi ro`
+- consequently..
+    - consequence `(n.): kết quả, hậu quả, hệ quả; tầm quan trọng, tính trọng đại`
+- `:phủ`
+    - blanket `(v.): phủ lên`
+    - cover `(v.): che, phủ, trùm, bọc; bao gồm`
+- var..
+    - variable `:biến hóa`
+    - variety `(n.): sự đa dạng, trạng thái muôn màu`
+- `:nhiều`
+    - multiple `(adj.): nhiều, bội số`
+    - majority `(n.): phần lớn, đa số`
+    - variety `(n.): sự đa dạng, trạng thái muôn màu`
+    - numerously `(adv.): nhiều`
+- major
+    - majority `(n.): phần lớn, đa số`
+- `:ước`
+    - wish
+    - desire `(v.): thèm muốn, khao khát, ao ước`
+- `khía cạnh`
+    - aspect `(n.): khía cạnh`
+    - perspective `(n.): góc nhìn, khía cạnh`
+- `:sinh lời`
+    - yield `(v.): sinh lợi`
+    - profitably `(adv.): có lợi, có ích, sinh lãi, sinh lợi`
+- `:thay thế`
+    - alternative `(adj.): xen kẽ, thay thế, luân phiên`
+    - replace `(v.): thay thế`
+    - substitution `(n.): sự đổi, sự thay thế`
+- `:kiểm tra, thanh tra`
+    - verify `(v.): kiểm tra lại, thẩm tra, xác minh`
+    - audit `(n.): kiểm toán; (v.): kiểm toán, kiểm tra`
+    - inspect `(v.): thanh tra, kiểm tra, xem xét kỹ`
+    - audit `(n.): kiểm toán; (v.): kiểm toán, kiểm tra`
+- inspect
+    - inspecter
+    - inspect `(v.): thanh tra, kiểm tra, xem xét kỹ`
+- `nợ`
+    - debt `(n.): nợ, món nợ`
+    - outstanding `(adj.): còn tồn tại, chưa giải quyết xong, chưa trả nợ, nổi bật`
+    - owe `(v.): nợ, mắc nợ, mang ơn`
+- `:vé`
+    - ticket
+    - fare `(n.): tiền vé`
+- spec..
+    - specific `(adj.): cụ thể, rõ ràng, rành mạch`
+    - specialize `(v.): chuyên môn hóa, chuyên về`
+- `:tham dự`
+    - attend `(v.): tham dự, có mặt`
+    - take part in `(v.): tham dự, tham gia`
+- `:thông báo`
+    - inform
+    - notify `(v.): thông báo`
+    - announcement `(n.): ‹sự/lời› thông báo`
+- `:dũng cảm`
+    - daringly `(adv.): táo bạo, cả gan, phiêu lưu, dũng cảm`
+    - bravely
+- `:tin cậy`
+    - rely `(v.): dựa vào, tin cậy`
+    - trust
+    - confidence `(n.): sự tin tưởng, sự tin cậy`
+- `:chắc chắn`
+    - sure
+    - secure `(adj.): chắc chắn, an toàn`
+- subject..
+    - subjective `(adj.): chủ quan`
+    - subject to `(adj.): lệ thuộc vào, tùy theo`
+- set..
+    - settle `(v.): ngồi, đậu, bố trí, định cư, làm ăn sinh sống; giải quyết, hòa giải, dàn xếp`
+- respon..
+    - responsibility `(n.): trách nhiệm, bổn phận`
+    - respond `(v.): hồi âm, phúc đáp`
+- `hưu`
+    - pension `:lương hưu`
+    - retire `(v.): nghỉ hưu`
+- `:hoãn lại`
+    - deferred
+    - postpone

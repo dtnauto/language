@@ -417,7 +417,7 @@
 > - Out of work: thất nghiệp
 
 > - Pay a fine: trả tiền phạt 
-> - Pay attention to: chủ ý 
+> - Pay attention to: chú ý 
 > - Pay by card: trả bằng thẻ 
 > - Pay for: thanh toán, chi trả - example: Pay for the bill: trả hoá đơn 
 > - Pay in cash: trả bằng tiền mặt 
@@ -443,19 +443,6 @@
 > - Solve + disagreement
 > - Solve + problem/ trouble 
 > - Solve = resolve = handle = deal with
-
-> - Take a break
-> - Take a picture / photo 
-> - Take advantage of: lấy lợi ích từ đâu…/ giảm giá…
-> - Take care of: chăm sóc
-> - Take into consideration: xem xét, cân nhắc 
-> - Take off: cất cảnh, cởi bỏ 
-> - Take on + debt/task/job: gánh vác/ đảm nhiệm + nợ/chức vụ/ công việc
-> - Take over = Succeed + sb: kế nhiệm, tiếp quản ai 
-> - Take part in: tham gia
-> - Take place: diễn ra
-> - Take the opportunity
-> - Take your time
 
 > - Talk about st: nói về điều gì
 > - Talk to sb about st: nói chuyện với ai về điều gì
@@ -508,151 +495,6 @@
 > - Some (khẳng định)/Any (phủ định) + N 
 > - Some N đếm được số nhiều hoặc không đếm được
 
-# Preposition: `Giới từ`
-
-
-giới từ + to + V0
-
-# Gerund: `Danh động từ`
-
-## Colloc + N<sub>V+ing</sub>
-
-Danh động từ đứng sau cụm từ
-
-> - Spend time/money Ving; tiêu, dành
-> - Note: Spend time/money + on st 
-> - Waste time/money Ving: lãng phí 
-> - Note: Waste time/money + on st 
-> - S + Be/ Get Used to V0ing 
-> - = Be accustomed to V0ing: quen với việc gì mới được hình thành
-> - Note: S+ Used to V0: thói quen được hình thành trong quá khứ nhưng đã chấm dứt.
-> - Ex:
-> - Object to V0ing: phản đối gì
-> - Look forward to V0ing: mong đợi, mong mỏi làm gì
-> - Be committed to V0ing: cam kết 
-> - Be devoted to V0ing = be dedicated to V0ing: tận tụy, cống hiến 
-> - It is no good / use Ving: đừng làm gì vô ích 
-> - Be busy Ving st: bận làm gì 
-> - Before / After N/Ving
-> - Keep on Ving: tiếp tục làm gì đó
-
-
-## Pre + N<sub>V+ing</sub>
-
-Danh động từ đứng sau giới từ
-
-> - Be fond of: `thích cái gì`
-> - Be keen on: `nhiệt tình=đam mê cái gì`
-> - Be interested in: `thích thú về điều gì=việc gì`
-> - Be tired of: mệt mỏi với cái gì
-> - Be bored with: chán cái gì 
-> - Be in the mood for Ving
-> - Discourage from Ving
-
-
-## V + N<sub>V+ing</sub>
-
-Danh động từ đứng sau động từ
-
-> - Admit: chấp nhận, nhận 
-> - Avoid: tránh 
-> - Consider: xem xét, cân nhắc
-> - Keep: tiếp tục làm gì
-> - Delay = Postpone= Put off: trì hoãn
-> - Discontinue: dừng làm việc gì 
-> - Enjoy = Love = Like: thích
-> - Hate = dislike: ghét 
-> - Finish: kết thúc 
-> - Mind: ngại
-> - Quit/Give up: từ bỏ
-> - Deny: phủ nhận, chối bay chối biến
-
-
-# Liên từ 
-> Dùng để nối câu đơn tạo thành câu ghép
-
-- Hai vế đối lập trái ngược: khi xuất hiện một vế khẳng định và một vế phủ định.  
-> - No/not/none=không
-> - Refure to V: từ chối làm gì?
-> - Decide against: quyết định không làm gì?
-> - TUY, mặc dù, cho dù: Although=though=even though + mđ: 
-Despite= In spite of + N/Ving ~ in stead of + N/Ving the fact that
-> - NHƯNG: Mđ but=yet=However=nonetheless=nevertheless mđ: 
-~However=Nonetheless=Nevertheless, mđ: tuy nhiên,tuy nhưng,
-
-- Nguyên nhân-Kết quả:
-> - Vì, bởi vì: Because = since = as = nowthat = seeing that + mđ
-Because of= due to = owing to = account for + N/Ving
-> - Nên, do đó, bởi vậy: mđ so/thus/hence/therefore/consequently mđ
-
-- Thêm vào bổ sung:
-> - And=và: không đứng đầu câu; cộng với tất cả các loại từ. Example: N and N; V and V; adj and adj; S mđ and mđ.
-> - Both…and… = cả hai… và… = vừa…vừa…
-> - Not only…but also…=không những mà còn
-> - Either…or…= thế này…hoặc thế kia…
-> - Neither…or…= không thế này…hoặc không thế kia…
-> - On the whole, : nhìn chung là ( đứng đầu câu)
-> - As…as= no  sooner…than…: vừa mới…thì…
-> - 
-> - As well as = và; cũng như: chỉ đứng giữa 2 danh từ N1 as well as N2
-> - Beside + N/Ving = thêm vào đó…; bên cạnh…; gần…
-> - In addition to N/Ving = in addition + mđ = thêm vào đó
-> - Moreover, mđ = hơn thế nữa
-> - Further more: hơn thế nữa
-> - On one hand…on the orther hand…: một mặt là…mặt khác là…
-> - 
-> - While + mđ tiếp diễn: trong khi dùng trong trường hợp đối lập trái ngược
-> - Whereas + mđ: trong khi trái lại
-> - In which /where /When + mđ: khi mà
-> - Until + mđ chỉ thời gian: cho đến khi
-> - Still: trạng từ đứng xung quyanh động từ
-> - As soon as + mđ: ngay khi
-> - Only if + mđ: chỉ khi
-> - Upon + N/Ving : bị hỏng khi nào
-> - Prior to N/Ving: trước khi
-> - During + N chỉ thời gian:trong khi 
-> - Be continually / curenterlly Ving: đang / hiện nay
-> - 
-> - Instead of N/Ving: thay vì
-> - 
-> - Even if + mđ: dẫu khi.. ~ Whether…or/or not…=dù cho…hay không
-> - Orther than= rather than: hơn là
-> - In case of N: trong trường hợp
-> - Regardless of + N/Ving: bất kể,…
-> - 
-> - Mđ so that mđ= để mà
-> - in order (for O) to V = so as to V : để mà 
-> - For this purpore to V: mục đích là
-> - 
-> - First,…second,…then…: và rồi
-
-> - 
-> - No matter wh (where/when/what) S V:
-> - However = How = No matter how + adj (adv) s be (V): dù thế nào đi nữa… Example: however dificult the life is, give it a try
-                 however ugly you are, you are apple of my eye…
-
-> - On or before: đúng trước hạn cuối cùng
-> - Take the time during: dành thời gian cho
-> - 
-> - Whom va which là 2 đại từ quan hệ có giới từ đứng trước
-> - 
-> - IT IS NO WONDER THAT S V : KHONG CO GI DANG NGAC NHIEN KHI MA
-
-- Câu điều kiện:
-> - Nếu: If=provided that= as long as +mđ, mđ:
-Miễn là: Mđ, If=provided that= as long as +mđ:
-Example: as long as you love me
-Unless= if…not… 
-If not for N/Ving:neeus khoong  
-Or else = other wise: nếu không thì
-
-- Liên quan tới Thì:
-> - Before/After + Ving
-> - Note: 
->   - After + QKHT, QKĐ
->   - Before + QKĐ, QKHT ( S had P2)
->   - Since QKĐ, QKHT (S have/has P2)
-
 # Cấu trúc hay gặp trong TOEIC
 - Quy tắc 1-4:
 > - Have sb Vnt = Get sb to V0 = Make sb V0 = Force sb to V0: `bảo ai làm gì`
@@ -688,7 +530,7 @@ Or else = other wise: nếu không thì
 >   - Can't/ Couldn't help + Ving: không thể không làm gì
 >   - Can't/ Couldn't stand + Ving: không thể chịu đựng nổi việc gì 
 >   - Can / Can't afford to V0: có/không có khả năng tài chính làm gì
->   - Can/could V = Be able to V0 =Be capable of Ving: có khả năng làm gì
+>   - Can/could V = Be able to V0 = Be capable of Ving: có khả năng làm gì
 >   -
 >   - Will have P2: là thì tương lai hoàn thành. Dùng khi có: by the time…;by the end of…
 >   - Will be Ving: là thì tương lai tiếp diễn. Dùng khi có mốc thời gian cụ thể ở tương lai

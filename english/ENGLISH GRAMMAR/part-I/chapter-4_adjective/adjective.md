@@ -1,13 +1,22 @@
 # Adjective `:Tính từ`
 ## Phân loại
-1. Descriptive adjectives `:Miêu tả`: good; golden; dry
-2. Demonstrative adjectives `:Chỉ định`: this, that, these, those.
-3. Indefinite adjectives `:Bất định`: each, every, either, neither, some, any, no, few, many, little, much,...
-4. Numeral adjectives `:Số từ`: one, two, twenty,...
-5. Interrogative adjectives `:Nghi vấn`: which, what, whose
-6. Possessive adjectives `:Sở hữu`: my, your, his, her, its, our, thier.
-7. Articles adjectives `:Mạo từ`: a, an, the
-
+- Descriptive adjectives `:Miêu tả`: 
+    + Ex: good, golden, dry
+- Demonstrative adjectives `:Chỉ định`:
+    + Ex: this, that, these, those
+- Indefinite adjectives `:Bất định`:
+    - Quantitative adjectives `:Số lượng`:	
+        + Ex: some, much, few, many, little, any, no
+    - Distributive adjectives `:Phân bổ`:	
+        + Ex: each, every, either, neither, any
+- Numeral adjectives `:Số từ`:
+    + Ex: one, two, third, tenth
+- Interrogative adjectives `:Nghi vấn`: 
+    + Ex: which, what, whose
+- Possessive adjectives `:Sở hữu`:
+    + Ex: my, your, his, her, its, our, thier
+- Articles `:Mạo từ – đôi khi xem là tính từ`:
+    + Ex: a, an, the
 ## Cấu tạo
 1. Tính từ đơn
     - noun + "y": rain+y=>rainy;cloudy
