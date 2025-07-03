@@ -27,9 +27,11 @@
     - efficient `(adj.): có hiệu quả, có hiệu suất, có năng suất (cao)`
 - `:áp buộc`
     - burden `(n.): gánh nặng`
-    - obligate `(v.): bắt buộc, ép buộc`
+    - oblige `(v.): ép buộc`
+        - obligate `(v.): bắt buộc, ép buộc`
     - mandatory `(adj.): (thuộc) lệnh, bắt buộc`
     - impose `(v.): bắt chịu, bắt gánh vác`
+        - imposition `(n.): ép buộc`
     - press
 - express
     - express `(adj.): nhanh, hỏa tốc, tốc hành.`
@@ -77,7 +79,8 @@
     - eligible `(adj.): thích hợp, đủ tư cách, đủ tiêu chuẩn; có thể chọn được`
     - accommodate `(v.): làm cho phù hợp`
 - `:thuyết phục`
-    - persuasion `(n.): sự thuyết phục, làm cho tin (chú ý: persuade > convince)`
+    - Persuade `(v.): Thuyết phục`
+        - persuasion `(n.): sự thuyết phục, làm cho tin (chú ý: persuade > convince)`
     - convince `(v.): Thuyết phục`
 - `:thu hút`
     - attract `(v.): hấp dẫn, lôi cuốn, thu hút`
@@ -167,6 +170,7 @@
     - expand `(v.): mở rộng, phát triển`
     - broaden `(v.): mở rộng`
     - extend `(v.): gia hạn, kéo dài (thời hạn...)`
+    - widen
 - `:trường hợp`
     - situation `(n.): tình hình, vị thế`
     - circumstance `(n.): trường hợp, hoàn cảnh, tình huống`
@@ -275,6 +279,8 @@
     - salary `(n.): lương hàng tháng`
     - pension `:lương hưu`
 - `:nhân viên`
+    - worker
+    - associatef
     - receptionist `: nhân viên tiếp tân, lễ tân`
     - clerk
     - staff
@@ -402,3 +408,223 @@
 - `:hoãn lại`
     - deferred
     - postpone
+-------------------------------------------------------------------
+- `:giải quyết`
+    - resolve
+    - handle
+    - tackle
+1. Presentation = lecture = address = talk = speech `(n): bài thuyết trình`
+2. Present = lecture = address = talk = speak `(v): thuyết trình`
+3. Problem = matter = issue = question `(l):vấn đề`
+4. Handle = settle = solve = resolve = deal with = process `(v): xử lý, giải quyết`
+5. Decline = reject = refuse = turn = down `(v): tứ chối`
+6. Abide by = comply with = conform to = adhere to = follow `(v): tuân theo`
+7. Increase = rise = raise = go up `(v): tăng`
+8. Decrease = reduce = decline = lessen = go down `(v): giảm`
+9. Meet = accommodate = satisfy = fulfill = suit `(v): đáp ứng`
+10. Accommodation = housing = lodging `(n): chỗ ở`
+11. Attend = participate in = join = take part in = engage in `(v): tham gia`
+12. Invoice = receipt = check = bill = proof of purchase `(n): hóa đơn`
+13. Provide = supply offer = stock `(v): cung cấp`
+14. Terminate = stop = conclude = cease = end `(v): chấm dứt, kết thúc`
+15. 0bligate = oblige = force = compel `(v): bắt buộc`
+16. Obligatory = mandatory = compulsory = required `(adj.): bắt buộc`
+17. Reluctant = hesitant = unwilling `(adj.): miễn cưỡng, không sẵn lòng`
+18. Profit = earnings = proceeds = receipts = returns `(n): lợi nhuận`
+19. Salary = wage(s) = pay/payment = stipend `(n): tiền lương`
+20. Cost = expense = overheads = outlay = expenditure `(n): chi phí`
+21. Free = complimentary = free of cost/charge = without cost/charge = at no cost = for nothing `:miễn phí`
+22. Evaluate = assess = rate = appraise = estimate `(v): đánh giá`
+23. Conference = meeting = convention = seminar = workshop = assembly = gathering `(n):hội thảo, cuộc họp`
+24. Candidate = applicant = job-seeker = interviewee `(n):ứng viên`
+25. Contact = reach = get in touch with `(v):liên lạc`
+26. Cover = contain = include = consist of = feature `(v):bao gồm`
+27. Include = attach = enclose = accompany `(v): đính kèm`
+28. since = as = for = now that = seeing that = in that `(conj.): bởi vì`
+29. Because of = due to = owing to = thanks to = on account of = in view of= as a result of `(prep.): do, vì`
+30. Although = even though = though = notwithstanding that while `(conj.): mặc dù`
+31. Despite = in spite of = notwithstanding = regardless of `(prep.): mặc dù, bất kể`
+32. Except (for) = other than = apart from = aside from = barring =
+excluding = not including `(prep.): ngoại trừ`
+33. assignment = task = responsibility = job = mission = duty `(n): nhiệm vụ, trách nhiệm`
+34. Responsible for = accountable for = in charge of `(adj): chịu trách nhiệm`
+35. importantly = vitally = essentially = crucially significantly = critically `(adv.): quan trọng`
+36. Compensate = refund = reimburse = recompense `(v.): đền bù, bồi thường`
+37. Immediately = directly at once instantly = right away = without delay `(adv.): ngay lập tức`
+38. Signilicantly = considerably = substantially = noticeably = remarkably `(adv.):một cách đáng kể`
+39. Impact = affect = influence `(v): ảnh hưởng, tác động`
+40. Exceptional = excellent = outstanding = special `(adj): đặc biệt, xuất sắc`
+41. Submit = turn in = hand in = file `(v): nộp`
+42. Familiar with = accustomed to = acquainted with `(adj.): quen với`
+43. Create = make = generate = produce `(v): tạo ra`
+44. Orientation = training `(n): buổi đào tạo`
+45. Opportunity = chance `(n): cơ hội`
+46. Opening = vacancy = open position = vacant job/position `(n): vị trí công việc trống`
+47. Employees = staff = workers = personnel = workforce `(n): nhân viên`
+48. Personnel = Human Resources `: bộ phận nhân sự`
+49. Phase = stage = step = period `(n): giai đoạn`
+50. Exactly = correctly = accurately = precisely `(adv): một cách chính xác`
+51. Famous = popular = well-known = renowned = prominent = noted = celebrated distinguished = respected `(adj):nổi tiếng`
+52. Experienced = skilled/skillful = well trained = accomplished = practiced = proficient = seasoned `(adj): có kinh nghiệm`
+53. Recruit = hire = employ = engage `(v):thuê, tuyển dụng`
+54. Start = begin = commence = institute = initiate `(v): bắt đầu, khởi đầu`
+55. Commend = praise = compliment = honor `(v): khen ngợi`
+56. Reliable = dependable = trustworthy `(adj): đáng tin cậy`
+57. Rely on/upon = depend on/upon = count on `(v):dựa vào, phụ thuộc vào`
+58. Contest = tournament = compctition = race = match `(n): cuộc thi, trận đấu`
+59. Competitor = rival = opponent = adversary `(n): đối thủ cạnh tranh`
+59. Register = enroll in = sign up `(v): đăng kí`
+60. Allow = permit = enable = authorize = entitle `(v): cho phép`
+61. Reserve = book = make a reservation `(v): đặt trước`
+62. Agreement = contract `(n): hợp đồng`
+63. Change = modify = adjust = revise = alter = correct `(v): thay đổi, chỉnh sửa`
+64. Access = entrance = entryway/entry = gate = way in `(n): lối đi vào`
+65. Obtain = get = acquire = gain = earn `(v): lấy, có được`
+66. Interrupt = disrupt = disturb = interfere with = break `(v): làm gián đoạn`
+67. Malfunction = not function = out of order = go down = stop working = fail = go wrong = break down `: bị hỏng`
+68. Outline = draft = summary = sketch `(n): bản phác thảo, bản tóm tắt`
+69. Convince = persuade = induce `(v): thuyết phục`
+70. Customer = client = consumer = patron = buyer = purchaser `(n): khách hàng`
+71. Delay = postpone = reschedule = put off/over = defer = suspend = hold over = push back `(v): trì hoãn`
+72. Complaint = grievance = objection = criticism `(n): lời phàn nàn`
+73. Feedback = review = comment = idea = opinion = testimonial `(n): lời nhận xét, lời đánh giá`
+74. Deposit = down payment = advance payment = prepayment `(n):tiền cọc`
+75. Error = mistake = fault = flaw = defect = oversight `(n): lỗi, thiếu sót`
+76. Expire = become invalid = run out `(v): hết hạn`
+77. Become valid/effective = take effect = come into effect = come into for into operation = come into operation `: có hiệu lực`
+78. Effort = attempt = try = strive = endeavor `(n): sự cố gắng, sự nỗ lực`
+79. Estimate = quote = quotation = costing (n): bång båo giå
+80. Expert = professional = specialist = authority `(n): chuyên gia`
+81. Guarantee = assure = ensure = make sure = secure = promise `(v): đảm bảo`
+82. Move = relocate = transfer `(v): di dời`
+83. Remove - eliminate = get rid of = dispose of = throw away/out `(v): loại bỏ, vứt bỏ
+    - of `: vứt`
+84. Notify = inform = warn = brief `(v): thông báo cho ai`
+85. Perform = conduct = carry out = do = implement `(v): thực hiện`
+86. Penalty = fine `(n): tiền phạt`
+87. Construct = build = put up = erect `(v):xây dựng`
+88. Destroy = demolish = knock down = tear down = ruin = put down `(v):phá hủy`
+89. Rapidly = quickly = fast = swiftly = promptly = dramatically = suddenly `(adv): một cách nhanh chóng`
+90. Avoid = keep away from = stay away from refrain from `(v): tránh`
+91. Approach = method = strategy = way = measure `(n): cách tiếp cận, phương pháp`
+92. Measurement = size = dimension (length & width) `(n): kích thước`
+93. Scope = extent = range = scale `(n): phạm vi`
+94. Inspect = examine = check = go over = investigation `(v): kiểm tra`
+95. Former = previous = old = past = last = earlier `(adj): trước đây`
+96. Headquarters = head office = main office `: trụ sở chính`
+97. Improve = enhance = promote = make better = advance boost = further `(v):cải thiện, thúc đẩy`
+98. Purpose = aim = target = objective = goal = intention = intent `(n): mục đích, mục tiêu`
+99. Supervise = manage = oversee = monitor = keep track of `(v):giám sát, quản lý`
+100. Banquet = dinner = reception = luncheon (tiệc trưa) = party `(n): bữa tiệc`
+101. talent = gifted = genius `:tài năng`
+- `:thuyết trình, diễn văn,..`
+    - address `:bài diễn văn`
+    - speech `:bài thuyết trình`
+    - lecture `:bài giảng`
+- `:gộp, trộn`
+    - combine
+    - mix
+    - intergrate
+
+1. out of order = broken = damaged : hỏng / không hoạt động.
+2. emphasize = stress = highlight : Nhấn mạnh
+3. outlet = store : cửa hàng.
+4. make amends = make up for = compensate : bồi thường/ đền bù cho.
+5. element = factor : yếu tố/ nhân tố.
+6. contact = get in touch with = get a hold of : liên lạc.
+7. circumstance = situation = case : tình huống/ trường hợp.
+8. rate = price : giá.
+9. monitor = supervise = oversee : giám sát.
+10. hazardous = dangerous : mạo hiểm/ nguy hiểm.
+11. drop off = deliver : phân phát/ giao.
+12. acquire = obtain = get : Mua lại/ có được.
+13. cost = expenses : chi phí
+14. committed = dedicated (to) : tận tụy/ tận tâm.
+15. widen = broaden (v) mở rộng.
+16. affair = matter = event : vấn đề/ sự kiện.
+17. extent = scope = scale : phạm vi/ quy mô.
+18. remainder = rest : người còn lại/ phần còn lại.
+19. further = advance : đẩy mạnh/ xúc tiến.
+20. stiff = intense : khó khăn / khắc nghiệt.
+21. routine = program : chương trình/ kế hoạch.
+22. thrilled = excited : phấn khởi/ hào hứng.
+23. comprise = account for : chiếm khoảng/ gồm có.
+24. appeal to = attract : hấp dẫn/ lôi cuốn.
+25. perform = carry out = complete : thực hiện/ hoàn thành.
+26. critical = important = essential : quyết định/ quan trọng.
+27. Punctual = on time : đúng giờ.
+28. Purchase = buy : mua.
+29. Put off = postpone = delay : trì hoãn.
+30. reconstruct = rebuild : xây dựng lại.
+
+31. reduce = cut down : cắt giảm.
+32. renowned = famous : nổi tiếng.
+33. rival = competitor : đối thủ cạnh tranh.
+34. situate = locate : đặt/ định vị.
+35. specific = particular : cụ thể/ riêng biệt.
+36. state-of-the-art = modern : hiện đại.
+37. extend = offer : gửi/ cung cấp.
+38. appreciate = value : đánh giá cao.
+39. retain = contract = hire : thuê.
+40. capacity = volume : sức chứa/ công suất.
+41. slot = opening : chỗ / vị trí.
+42. trick = tip : bí quyết/ thủ thuật.
+43. come up with = think of = compose : đưa ra.
+44. outfit = apparel = attire = costume = clothing = clothes : quần áo.
+45. result in = lead to : dẫn đến.
+46. put forth = propose : đề xuất một ý tưởng gì đó.
+47. around the clock = continuously for 24 hours : liên tục cả ngày và đêm.
+48. devote to = focus on : hết lòng/ tận tâm/ tập trung.
+49. adequate = sufficient : đầy đủ / thích hợp.
+50. hit = success : thành công.
+51. beyond = outside the reach of : vượt ra khỏi cái gì.
+52. indeavor = strive : cố gắng/ phấn đấu.
+53. capacity = role : vai trò/ với tư cách là.
+54. treat = serve : đối đãi/ phục vụ
+55. hearty = satisfying : vừa ý / hài lòng/ thân mật.
+56. profit = proceeds = interest : lợi nhuận.
+57. administer = conduct : thực hiện/ thực thi.
+58. concept = idea : ý tưởng.
+59. go over = review = check = examine : rà soát/ kiểm tra.
+60. clientele = patron : những khách hàng quen.
+61. dispute = argument : cuộc tranh cãi/ cuộc tranh luận.
+62. promptly = immediately = instantly = urgently : ngay lập tức.
+63. remain = still be : vẫn luôn/ vẫn còn.
+64. find out = discover : phát hiện/ tìm thấy.
+65. prompt = cause : thúc giục/ gây ra.
+
+66. happen = occur = come up = take place: xảy ra/ diễn ra.
+67. flyer = brochure = pamphlet = advertisement : tờ rơi/ tờ quảng cáo.
+68. understaffed = not enough employee : không đủ nhân viên.
+69. increase = raise = rise : tăng.
+70. complimentary = free of charge = no charge : miễn phí.
+71. refreshment = food and drink : thức ăn nhẹ.
+72. beverage = drink : đồ uống.
+73. annually = yearly = once a year = every year : hàng năm.
+74. round trip ticket = return ticket = two-way ticket : vé khứ hồi.
+75. request = require = ask : yêu cầu.
+76. focus on = concentrate on : tập trung.
+77. take effect = go into effect = valid : có hiệu lực.
+78. receipt = invoice = bill : biên nhận.
+79. communicate = contact = interact : giao thiệp/ tương tác.
+80. degree = qualification = certificate : trình độ/ bằng cấp.
+81. renovate = innovate : nâng cấp/ làm mới lại.
+82. citizen = resident = people : người dân.
+83. manufacturer = producer : nhà sản xuất.
+84. route = road = track : tuyến đường.
+85. law = regulation =principle = rule : luật lệ / quy định.
+86. deal with = address = solve = handle = settle : giả quyết/ xử lý.
+87. take part in = participate in = join in : tham gia vào.
+88. schedule = itinerary = timetable = travel plan : lịch trình.
+89. opportunity = chance : cơ hội.
+90. goods = merchandise = products : hàng hóa.
+91. enterprise = company = firm = corporation = business : công ty/ doanh nghiệp.
+92. notify = inform = announce : thông báo.
+93. allow = authorize = entitle = permit : cho phép.
+94. influence = affect = impact : gây ảnh hưởng/ tác động.
+95. submit = turn in = hand in : nộp.
+96. fire = lay off = dismiss = expel : sa thải/ đuổi việc.
+97. drop in = come by = drop by : ghé qua.
+98. reveal = disclose = unveil : phơi bày/ tiết lộ.
+99. evidence = proof : bằng chứng.
+100. substantial = considerable = significant : đáng kể.

@@ -332,6 +332,7 @@
 - cancellation `(n.): sự bãi bỏ, hủy bỏ`
 - determine `(v.): xác định, định rõ`
 - engage `(v.): thu hút (sự chú ý…), giành được (tình cảm…)`
+    - engagement `(n.): sự hứa hôn, sự cam kết`
 - establish `(v.): thành lập, thiết lập`
 - obligate `(v.): bắt buộc, ép buộc`
 - party `(n.): đảng, phái, nhóm`

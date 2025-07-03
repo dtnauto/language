@@ -16,6 +16,7 @@
 - Both.. and.. `: Vừa.. vừa..`
 - as well as `:cũng vừa.., cũng như..`: chỉ đứng giữa 2 danh từ N(1) as well as N(2)
     - Ex: he was tired as well as hungry
+    - = along with `:cũng với`
 - Not only.. but also `: không những.. mà còn`
 - Furthermore = moreover = what is more [+mđ] `: hơn thế nữa`: 
 - In addition [+mđ] `:thêm vào đó` 
@@ -27,9 +28,8 @@
 - still = yet = However = nonetheless = nevertheless [+mđ] `:tuy nhiên.., tuy nhưng..`
 - While.. = whereas.. [+mđ] `:trong khi..`. dùng trong trường hợp đối lập trái ngược
     - Example: He went out, whereas I stayed home. `:Anh ấy ra ngoài, Trong khi tôi thì ở nhà.`
-    - Instead of [+N/Ving] `: thay vì..`
-    - Rather than [+N/Ving] `: thay vì..`
-    - On the one hand [+mđ], on the orther hand [+mđ] `: một mặt thì.., mặt khác thì..`
+- Rather than.. = Instead of..[+N/Ving] `: thay vì..`
+- On the one hand [+mđ], on the orther hand [+mđ] `: một mặt thì.., mặt khác thì..`
 ### Nhóm OR
 - or `:hay.., hoặc..`
 - either.. or.. [+mđ] `:thế này.. hoặc thế kia.. `
@@ -54,14 +54,14 @@
     - Example: No sooner had I arrived than she started talking. `:Vừa mới đến thì cô ấy bắt đầu nói chuyện.`
 - till = until [+mđ chỉ thời gian] `:cho đến khi`  
     - Ex: I can't express my opinion until I know the truth `: tôi không thể bày tỏ ý kiến của mình trước khi biết sự thật`
-- Before [+md] `: trước khi`. Đây là case Before khi dùng làm liên từ khác với giới từ
+- Before [+md] `: trước khi..`. Đây là case Before khi dùng làm liên từ khác với giới từ
     - Before + QKĐ, QKHT (S had V3)
     - Since QKĐ, QKHT (S have/has V3)
-    - Prior to [+N/Ving] `: trước khi`
-- After [+md] `:sau khi`. Đây là case After khi dùng làm liên từ khác với giới từ
+    - Prior to [+N/Ving] `: trước..`
+- After [+md] `:sau khi..`. Đây là case After khi dùng làm liên từ khác với giới từ
     - After + QKHT, QKĐ
     - Before/After khi dùng làm liên từ (chú ý khi làm giới từ ở phần 1)
-    
++ Once [+md] `một lần.., một khi..`
 
 #### nơi chốn
 - In which [+mđ] `: đó là..`
@@ -70,11 +70,11 @@
 #### thể cách
 - as = as if = as though [+mđ] `: như.., như là.., y như..`
 #### nguyên nhân
-- Vì, bởi vì: Because.. = Since.. = ..as.. = Now that.. = Seeing that.. [+mđ] `:vì, bởi vì` 
-    - Because of.. = due to.. = owing to.. = account for.. = in view of.. [+N/Ving]
+- Because.. = Since.. = As.. = Now that.. = Seeing that.. = Given that.. [+mđ] `:vì.., bởi vì..` 
+    - Because of.. = due to.. = owing to.. = account for.. = in view of.. = in light of.. = by virtue of.. [+N/Ving]
 #### mục đích
-- that = so that = in order that [+mđ] `: để mà` 
-    - in order (for O) to V = so as to V `: để mà `
+- that = so that = in order that [+mđ] `: để..,để mà..` 
+    - in order (for O) to V = so as to V `: để..`
     - For this purpore to V `: mục đích là`
 - In case [+mđ] `: phòng khi.., trong trường hợp..`
     - Example: In case of emergency, call this number = In case there is an emergency, call this number. `:Phòng khi có trường hợp khẩn cấp, hãy gọi số này.`
@@ -103,7 +103,7 @@
         - = Regardless of the fact that he is old, he works very hard
 
 #### điều kiện
-- if.. = provided that.. = as long as.. [+mđ] `:nếu.., miễn là..` 
+- if.. = provided that.. = as long as.. = so long as..[+mđ] `:nếu.., miễn là..` 
     - Example: as long as you love me
 - Only if.. [+mđ]`: chỉ khi..` 
 - Unless = if..(not).. [+mđ] `:trừ khi`  
