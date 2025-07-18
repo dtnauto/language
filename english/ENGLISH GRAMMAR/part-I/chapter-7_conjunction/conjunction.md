@@ -19,9 +19,10 @@
     - = along with `:cũng với`
 - Not only.. but also `: không những.. mà còn`
 - Furthermore = moreover = what is more [+mđ] `: hơn thế nữa`: 
-- In addition [+mđ] `:thêm vào đó` 
-    - In addition to [+N/Ving] `:thêm vào đó`
-    - besides [+N/Ving] `:thêm vào đó..`
+- In addition [+mđ] `:thêm vào đó.., bên cạnh đó..` 
+    - In addition to [+N/Ving] `(adv.):thêm vào đó.., bên cạnh đó`
+    - Additionally `(adv.):thêm vào đó.., bên cạnh đó..`
+    - besides [+N/Ving] `:thêm vào đó.., bên cạnh đó..`
     
 ### Nhóm BUT
 - but `:nhưng`: dùng 2 vế đối lập trái ngược, khi xuất hiện một vế khẳng định và một vế phủ định, thường có dấu hiệu 1 vế là no/not/none.
@@ -32,9 +33,10 @@
 - On the one hand [+mđ], on the orther hand [+mđ] `: một mặt thì.., mặt khác thì..`
 ### Nhóm OR
 - or `:hay.., hoặc..`
+    - or else = otherwise [+mđ] `(không đứng ở đầu câu): mặt khác`
 - either.. or.. [+mđ] `:thế này.. hoặc thế kia.. `
 - neither.. or.. [+mđ] `:không thế này.. hoặc không thế kia.. `
-- or else = otherwise [+mđ]`: nếu không thì`
+
 ### Nhóm SO
 - so [+mđ] `: vì thế.., do đó..`: thường dùng cho kết quả
 - thus = hence = therefore = consequently = accordingly [+mđ] `:nên.., do đó.., bởi vậy..`  
@@ -49,7 +51,7 @@
 - As.. = while.. [+mđ] `:khi.., trong khi..` 
     - During [+N/Ving] `:trong khi`
 - As soon as [+mđ] `:ngay khi..`  
-    - Upon + N/Ving `: ngay khi`
+    - Upon [+N/Ving] `: ngay khi`
 - No sooner… than [+mđ] `: vừa mới.. thì..`
     - Example: No sooner had I arrived than she started talking. `:Vừa mới đến thì cô ấy bắt đầu nói chuyện.`
 - till = until [+mđ chỉ thời gian] `:cho đến khi`  
@@ -71,13 +73,14 @@
 - as = as if = as though [+mđ] `: như.., như là.., y như..`
 #### nguyên nhân
 - Because.. = Since.. = As.. = Now that.. = Seeing that.. = Given that.. [+mđ] `:vì.., bởi vì..` 
-    - Because of.. = due to.. = owing to.. = account for.. = in view of.. = in light of.. = by virtue of.. [+N/Ving]
+    - Because of.. = due to.. = owing to.. = account for.. = in view of.. = in light of.. = by virtue of.. [+N/Ving] `:vì.., bởi vì..`
 #### mục đích
 - that = so that = in order that [+mđ] `: để..,để mà..` 
     - in order (for O) to V = so as to V `: để..`
     - For this purpore to V `: mục đích là`
 - In case [+mđ] `: phòng khi.., trong trường hợp..`
     - Example: In case of emergency, call this number = In case there is an emergency, call this number. `:Phòng khi có trường hợp khẩn cấp, hãy gọi số này.`
+- Given [+N/Ving/mđ] `: về việc, xét đến..`
 - Given that [+mđ] `: Cho rằng..`
     - Example: Given that the weather is bad, we should cancel the trip. `:Cho rằng thời tiết xấu, chúng ta nên hủy chuyến đi.`
 #### kết quả

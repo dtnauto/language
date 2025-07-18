@@ -1,10 +1,11 @@
 #  nhận biết vị trí các từ trong câu
-- adv + V + adv + adj + N
-    - tính từ đi trước danh từ; sau danh từ là liên từ for,..
-    - trạng từ đi trước động từ
-- N + N `: sự gì đó`
-- V + O(n.) + adv `:một cách như thế nào đó (có danh từ ở giữa chèn vào, trạng từ vẫn bổ nghĩa cho động từ)`
-    - V + adv `:một cách như thế nào đó`
+- adv, S + adv + V + (O) + adv, adv
+    - O là object `(n.): tân ngữ`
+        - adv + adj/adj.Phase + N/N.Phase   
+            - N.Phase là N + N `(danh từ ghép): sự gì đó`
+            - adj.Phase là adj + adj `(tính từ ghép):`
+    - V + O + adv `:một cách như thế nào đó (có danh từ ở giữa chèn vào, trạng từ vẫn bổ nghĩa cho động từ)`
+        - V + adv `:một cách như thế nào đó`
 
 - Sau động từ "be" và trước "to + nhóm danh từ" cần điền 1 tính từ.
     - be + adj + to + noun
@@ -34,11 +35,12 @@
     - sb : là ttsh hoặc danh từ
     - st : là một cụm danh từ. (adj + N)
 - offer + sb + st `(v. có 2 tân ngữ): cung cấp cho ai cái gì`
-- ask sb to do st `yêu cầu ai làm gì`
-- agree to V with sb `đồng ý làm gì với ai`
-- remind sb to do st `nhắn nhở ai làm cái gì`
+- ask sb to do st `:yêu cầu ai làm gì`
+- agree to V with sb `:đồng ý làm gì với ai`
+- remind sb to do st `:nhắn nhở ai làm cái gì`
 - arrange with sb `: sắp xếp cái gì đó với ai`
 - It is necessary to do st  `:Làm điều gì là cần thiết.`
+- allow sb to do st `: cho phép ai đó là cái gì`
 
 # cụm từ
 - just đi với but

@@ -1,0 +1,2 @@
+- reciprocal pronouns `: đại từ tương hỗ`
+    - each other và one another `:lẫn nhau` dùng làm đại từ tương hỗ. Example: they looked at each other `:họ nhìn nhau`

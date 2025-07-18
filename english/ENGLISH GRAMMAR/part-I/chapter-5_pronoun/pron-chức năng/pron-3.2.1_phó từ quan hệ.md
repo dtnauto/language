@@ -1,0 +1,27 @@
+# Adverb relative `:Phó từ quan hệ`
+- where, when, why 
+    - When = in/on which. `:khi mà` Dùng thay cho danh từ chỉ thời gian.
+        - ex:
+            - I remember the day when we first met (mệnh để xác định).
+            - We will put off the picnic until the next week, when the weather may be better (mệnh đề không xác định).
+    - Where = in/at which. `: nơi mà` Dùng thay cho danh từ chỉ nơi chốn.
+        - ex:
+            - This is the house where he lived with his parents in his childhood (mệnh đề xác định).
+            - They went to Badinh square, where they would attend a big meeting (mệnh để không xác dịnh).
+    - Why = for which. `: tại mà` Dùng thay cho danh từ chỉ nguyên nhân, lý do.
+        - ex:
+            - I know the reason why he was so angry.
+            - The reason why he came is not very convincing.
+- Sau same và such một mệnh đề tính ngữ thường được bắt đầu bằng as 
+    - ex:
+        - She wears the same kind of clothes as her sister usually does.
+        - I never heard such stories as he tells.
+    - Chú ý: Tuy nhiên sau same người ta vẫn có thể dùng that được.
+        - ex:
+            - She wore the same dress that she wore at her friend's wedding.
+- What cũng có trường hợp dùng làm đại từ quan hệ. Nó có đặc điểm là không thay cho một danh từ hay đại từ nào đứng trước nó, và do đó tương đương với:
+    - the thing that `:cái mà... điều mà...`
+    - the things that `:những cái mà... những điều mà...`
+    - ex:
+        - Tell me what you want to know. `:Nói cho tôi hay những điều mà anh muốn biết.`
+        - When she sees what you have done, she will be furious... `:Khi cô ta thấy những việc anh đã gây ra, cô ấy sẽ diên tiết.`

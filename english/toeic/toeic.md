@@ -516,8 +516,8 @@
 > - Let sb down: `thất vọng`
 
 - Quy tắc 2:
-> - Want = would like = wish = expect   to V0: muốn làm gì 
-> - Want = woul d like sb to V0: muốn ai làm gì
+> - Want = would like = wish = expect to V0: muốn làm gì 
+> - Want = would like sb to V0: muốn ai làm gì
 > - Want = would like st P2: muốn cái gì được làm gì
 
 - Quy tắc 7:  Defective Verb + V0/(be + V3)
