@@ -1,3 +1,13 @@
+#### Thì tương lai với Ving
+- structure
+    - dùng [to be] là trợ động từ thì tương lai gần
+        - [+] S + am/is/are + Ving + ..
+        - [-] S + am/is/are + not + Ving + ..
+        - [?] 'wh' + am/is/are + S + Ving + ..
+- note:
+    - thường diễn tả sự việc đang xảy ra tại thời điểm nói nhưng còn được sử dụng trong tương lai gần nói về việc sẽ xảy ra dựa trên kế hoạch có sẵn và đã được chuẩn bị trước (kế hoạch đã được sắp xếp, người nói quyết định và lên lịch)
+        - Example
+            - I am meeting my boss at 10 a.m
 #### Thì tương lai với **going to**
 - structure
     - dùng [to be] + going to là trợ động từ thì tương lai gần
@@ -7,3 +17,19 @@
 - note
     - dùng để diễn tả một việc sắp xảy ra và các chắc chắn sẽ xảy ra nên còn gọi là thì tương lai gần
     - dùng để diễn tả dự định chắc chắn sẽ làm
+        - example:
+            - he is going to visit his mom next week `: anh ấy dự định thăm mẹ của anh ấy vào tuần tới`
+    - dự đoán một sự việc sắp xảy ra dựa trên các dấu hiệu ở hiện tại
+        - example:
+            - look at those clouds. It is going to rain
+#### Thì tương lai với **about to**
+- structure
+    - dùng [to be] là trợ động từ thì tương lai gần
+        - [+] S + am/is/are + about to + V0 + ..
+        - [-] S + am/is/are + not + about to + V0 + ..
+        - [?] 'wh' + am/is/are + S + about to + V0 + ..
+- note
+    - diễn tả một sự việc sắp xảy ra ngay lập tức (rất gần thời điểm nói); không đi kèm thời gian cụ thể
+        - Example
+            - she is about to make dinner
+            - the train is about to leave

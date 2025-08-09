@@ -1,4 +1,5 @@
 # Verb `:Động từ nguyên mẫu`
+______________________________________________________________
 ## Giới thiệu
 ### Các dạng của động từ
 - V0: Động từ nguyên mẫu.
@@ -22,6 +23,7 @@
     - Ex: been; done
 - Ving: Thì ở dạng tiếp diễn hoặc danh động từ; động tính từ hiện tại
 - Ved: Thì ở dạng quá khứ (1 dạng có quy tắc của V2) hoặc danh động từ; động tính từ quá khứ
+
 _____________________________________________________________
 ## Conjugation of Verb `:Chia động từ`
 - Có 3 thể:

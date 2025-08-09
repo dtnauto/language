@@ -25,3 +25,5 @@
         - [?] 'wh'+should/would+S+V0+O
         >- đứng ở quá khứ để nói về một thời điểm trong tương lai so với thời điểm ấy (thời điểm quá khứ). Ex: He told me that he would go to Moscow next month
         >- nếu đứng ở hiện tại nói về tương lai so với thời điểm ấy (thời điểm hiện tại). Ex: He tells me that he will go to Moscow next month
+- dấu hiệu
+    - các từ xuất hiện đi với thì tương lai.: unless, untill, as long as, proviđe that + htd , tlđ

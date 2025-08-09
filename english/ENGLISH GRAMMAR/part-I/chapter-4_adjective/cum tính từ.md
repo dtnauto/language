@@ -1,0 +1,3 @@
+- regard `(v.): liên quan`
+    - Regardless of `: bất chấp`
+- compatible with `:tương thích với`

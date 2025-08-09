@@ -305,96 +305,6 @@ Mẹo: the, most, est
         - Example: 
             + You look tired. Let take a break. I will help you to finish your work. `:bạn trông mệt đó. Đi nghỉ đi. Tôi sẽ giúp bạn làm nốt công việc của bạn`
 
-- chú ý:
->- Advise sb To V0: khuyên ai làm gì 
->- Afford to V0: có đủ khả năng tài chính để làm gì 
->- Allow to V0: cho phép làm gì - Allow sb to V0: cho phép ai làm gì 
->- Agree to V0: đồng ý làm gì - Agree with: đồng ý với
->- Aim to V0: nhằm mục đích làm gì
-
->- Ask for N/Ving:
->- Ask to V0: yêu cầu làm gì = Demand for(cao nhất): yêu cầu 
->- Ask/ require/ request/ order / in sb To V0: yêu cầu ai làm gì 
-
->- Attempt to V0: cố gắng làm gì 
->- Be renovated to V0: được sữa chữa để làm gì
->- Be intended for N:
->- Be intended to V0: có dự định, kế hoạch làm gì
->- Be likely to V0: dường như
->- Be willing/unwilling to V0: sẵn sàng làm gì
->- Decide to V0: quyết định làm gì 
->- Direct to V0:
->- Encourage sb To V0: cổ vũ, khuyến khích ai làm gì 
->- Expect to V0: mong đợi làm gì - Expect sb to V0: mong đợi ai đó làm gì
->- Hanor to V0: vinh dự làm gì
->- Hesitate to V0: do dự, lưỡng lự khi làm gì 
->- Hope to V0: hi vọng làm gì 
->- Manage to V0: thành công trong việc gì 
->- Offer to V0: đề nghị làm gì  
->- Permitted to V0: cho phép
->- Persuade sb to V0: thuyết phục ai làm gì 
->- Plan to V0: có dự định,kế hoạch làm gì 
->- Pretend to V0: giả vờ
->- Promise to V0: hứa làm gì 
->- Scheduled to V0: lên kế hoạch để làm gì
->- Vital to V0:
->- Way to V0: cách để làm gì
-
-- Đặc biệt:
->- Regret to V0: lấy làm tiếc khi phải lm gì 
->- Regret Ving: lấy làm tiếc đã làm gì
-
->- Try To V0: cố gắng làm gì 
->- Try Ving: thử làm gì 
->- Try on: thử quần áo giày dép thời trang
-
->- Forget to V0
->- Forget Ving st 
-
->- Remember To V0: nhớ phải làm gì
->- Remember Ving: nhớ đã làm gì
-
->- Stop Ving 
->- Stop To V0 
-
->- Suggest sb (should) Vnt: gợi ý should have P2 : hối tiếc về điều gì
->- Suggest that S Vnt : gợi ý là (câu giả định)
->- Suggest Ving: gợi ý
-
->- Need to V0: cần làm gì - need sb to V0: cần ai làm gì
->- Needn’t V: không cần làm gì
->- Need Ving: bị động
->- Help sb V  
-
->- See /hear/watch sb V 
->- See sb V: chứng kiến tại một thời điểm
->- See sb Ving: chứng kiến từ đầu đến cuối
-
-
->- Prefer to V0: thích làm gì hơn 
->- Would  Prefer Ving to Ving = Would rather V than V: thích làm cái gì hơn cái gì
->- Would rather V= Would prefer to V0: thích làm gì hơn
-
->- Be able to V0 =Be capable of Ving: có khả năng làm gì
->- Enable sb to V0: cho phép ai làm gì
-
->- Deadline for N/Ving: hạn cuối cùng cho cái gì
->- Deadline to V0 hạn cuối cùng để làm gì
-
->- Cause O to V0: Khiến cho ai, gây ra cho ai cái gì
->- Cause of: nguyên nhân gây ra 
->- Cause to V0: dẫn đến (mang tính chất tiêu cực) <> Lead to V0: dẫn đến (mang tính chất tích cực)
-
->- Tell sb off: mắng mỏ ai
->- Tell sb to V0: bảo ai làm gì
-
->- Be Please to V0: hài lòng, vui khi làm gì 
->- Please V: Hãy làm gì đó… 
-
-- Sau cụm từ:
->- In an effort to V0: nỗ lực làm gì 
->- In order to V0: đề làm gì 
->- In an attempt to V0: cố gắng, thử sức làm gì
 
 # X. Những tổ hợp hay xuất hiện trong Part 5 của bài thi TOEIC
 ## A. Noun + Preposition (Danh từ + giới từ)
@@ -467,8 +377,6 @@ Mẹo: the, most, est
 23. A variety of something `: nhiều cái gì.`
     - Ex: The shirt is available in a variety of colors.
     - `:chiếc áo sơ mi này là có sẵn với nhiều màu`
-----
-24. spend/waste time/money on something `: tiêu, để dành/lãng phí thời gian/tiền bạc cho cái gì`
 
 ## B. Adjective/ Adverb + Preposition  - `:Tính từ/ Trạng từ + Giới từ`
 1. Afraid of something `: Sợ hãi cái gì đó.`

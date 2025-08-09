@@ -1,0 +1,77 @@
+# To Infinitives `:Động từ nguyên thể có to`
+- dùng để diễn tả mục đích
+    - Example: 
+        - They study in university to become teachers. `:họ học đại học để trở thành thầy giáo`
+## Vị trí
+- Đi sau một số động từ
+    - Agree `: đồng ý`  
+    - Attempt `: cố gắng, thử`  
+    - Appear `: xuất hiện`
+    - Ask `: yêu cầu`
+    - Claim `: khẳng định, quả quyết`  
+    - Decide `: quyết định`  
+    - Demand `: yêu cầu, đòi hỏi`  
+    - Desire `: khao khát, mong muốn`  
+    - Expect `: mong đợi, trông đợi`  
+    - Fail `: thất bại (làm gì đó)`  
+    - Forget `: quên`  
+    - Hesitate `: do dự, ngập ngừng`  
+    - Hope `: hi vọng`  
+    - Intend `: dự định`  
+    - Learn `: học, học cách` 
+    - Limit `:giới hạn` 
+    - Need `: cần, cần phải`  
+    - Offer `: đề nghị`  
+    - Plan `: lên kế hoạch`  
+    - Prepare `: chuẩn bị`  
+    - Pretend `: giả vờ`  
+    - Promise `: hứa, hứa hẹn`
+    - Refuse `: từ chối`  
+    - Seem `: dường như`  
+    - Strive `: cố gắng, phấn đấu`  
+    - ⚠️Tend `: có xu hướng` 
+    + Example:
+        - John expects to begin studying law next semester.
+        - Mary learned to swim when she was very young.
+        - The committee decided to postpone the meeting.
+        - The president will attempt to reduce inflation rate. 
+    - Trong câu phủ định, thêm not vào trước động từ làm tân ngữ:
+        - John decided not to buy the car
+- Sau các động từ chỉ ước muốn, mong muốn: 
+    - would like
+    - love `: yêu`
+    - prefer `:thích hơn`
+    - Want `: muốn`  
+    - Wish `: ước, mong muốn`  
+    + Example: 
+        - I would like to see your boss. `:tôi muốn gặp sếp của anh`
+- sau cụm từ:
+    - Make an effort + to V0 = in an attempt + to V0 = try + to V0 `:cố gắng = nỗ lực, thử sức = cố làm gì đó`
+    - In order + to V0 `: để làm gì`
+
+## Đặc biệt:
+- Đó là những động từ mà ngữ nghĩa của chúng sẽ đổi khác hoàn toàn khi tân ngữ sau nó là một động từ nguyên thể hoặc verb-ing.
+- try
+    - Try + to V0 `: cố gắng làm gì `
+    - Try + Ving `: thử làm gì `
+- regret
+    - Regret + to V0 `: lấy làm tiếc khi phải làm gì (thường dùng khi báo tin xấu)`
+        - Ex We regret to inform the passengers that the flight for Washington DC was canceled because of the bad weather.
+    - Regret + Ving `: lấy làm tiếc khi đã làm gì`
+        - Ex: He regrets leaving school early. It's the biggest mistake in his life. 
+- forget
+    - Forget to V0 `:quên sẽ phải làm gì`
+        - Ex: I forgot to pickup my child after school = Tôi quên không đón con.
+    - Forget + Ving st `:quên là đã làm gì`. Đặc biệt nó thường được dùng với mẫu câu S + will never forget + V-ing `: sẽ không bao giờ quên được là đã ...`
+        - Ex: She will never forget meeting the Queen = Cô ấy không bao giờ quên lần gặp Nữ hoàng
+- remember
+    - Remember + to V0 `: nhớ phải làm gì`
+        - Ex Remember to send this letter. `: Hãy nhớ gửi bức thư này nhé.`
+    - Remember + Ving `: nhớ đã làm gì`. Đặc biệt nó thường được dùng với mẫu câu: S + still remember + V-ing `: Vẫn còn nhớ là đã...`
+        - Ex: I remember locking the door before leaving, but now I can't find the key.
+            - Ex: I still remember buying the first motorbike
+- stop
+    - Stop + to V0 `:dừng lại để làm gì`
+        - Ex: He stoped to smoke `:Anh ta dừng lại để hút thuốc`
+    - Stop + Ving `:dừng làm việc gì`
+        - Ex: He stoped smoking `:Anh ta đã bỏ thuốc.`

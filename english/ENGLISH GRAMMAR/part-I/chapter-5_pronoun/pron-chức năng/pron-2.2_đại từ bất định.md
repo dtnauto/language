@@ -12,7 +12,7 @@
     - somewhere là những phó từ chỉ nơi chốn
         - they went somewhere after supper
         - have you seen him before somewhere? `:ngụ ý chắc chắn là bạn đã gặp anh ấy ở đâu`
-- Nhóm kết hợp với any: anything, anyone, anybody, anywhere, nowhere
+- Nhóm kết hợp với any: anything, anyone, anybody, anywhere, anyhow
     - any dùng làm tính từ với cả với danh từ đếm được hoặc danh từ không đếm được
         1. dùng trong phủ định, nghi vấn. 
             - Example: i have not any books
